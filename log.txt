@@ -1,0 +1,84 @@
+commit 30a10a67dd317d229c41e34c6651d30486699999
+Author: Daniel <DanielMcCarthy20@gmail.com>
+Date:   Fri Mar 1 14:53:45 2019 +0000
+
+    Adding Daniel Python
+
+commit 4fd5afe36050878bf97503810257f0c0a9d44c2c
+Merge: b15c1c4 4bcab49
+Author: Daniel <DanielMcCarthy20@gmail.com>
+Date:   Fri Mar 1 14:37:58 2019 +0000
+
+    Merge branch 'KevinPython' of https://github.com/Kevin3099/Assignment1
+
+commit 4bcab49c35214ca36d63876e90894e4d0b4dfab7
+Author: 20084163KP <kevinp3099@gmail.com>
+Date:   Fri Mar 1 14:34:33 2019 +0000
+
+    uploading to the correct branch
+
+commit b15c1c4778d97ae1856f0fb23d0181982f1ff10a
+Author: 20084163KP <kevinp3099@gmail.com>
+Date:   Fri Mar 1 14:26:52 2019 +0000
+
+    removing files from master to put on another branch
+
+commit 3bcb20090399dfe8e0830a8f582aa3851744e843
+Author: SungSam7 <47003202+SungSam7@users.noreply.github.com>
+Date:   Fri Mar 1 14:13:56 2019 +0000
+
+    I Dont have my pi, using GUI to upload 11-19 ch2
+
+commit f681aef6677e4502e954d027c734569a91ed93c5
+Author: 20084163KP <kevinp3099@gmail.com>
+Date:   Fri Mar 1 14:08:15 2019 +0000
+
+    commiting the python excercises 1-10 -kevin
+
+commit f7fd2e7c89d414abe1d48c28c8e50c7691027a79
+Author: SungSam7 <danielmccarthy20@gmail.com>
+Date:   Fri Feb 15 14:58:17 2019 +0000
+
+    Website
+
+commit af28870d397f8d9302d7ce21149d6324d27aa8c0
+Author: 20084163KP <kevinp3099@gmail.com>
+Date:   Fri Feb 15 14:49:23 2019 +0000
+
+    red mouth
+
+commit c10d6cb3dd678027966459cd57a40d073d26a704
+Author: SungSam7 <danielmccarthy20@gmail.com>
+Date:   Fri Feb 15 14:47:28 2019 +0000
+
+    IoT is so fun msg
+
+commit 38256dd99b30b0fc04db8c7f45b9d62532a7376d
+Author: 20084163KP <kevinp3099@gmail.com>
+Date:   Fri Feb 15 14:44:18 2019 +0000
+
+    changing cat head shape
+
+commit 67faf3727893dcf8fddc9a21eb75c6245706ed67
+Author: SungSam7 <danielmccarthy20@gmail.com>
+Date:   Fri Feb 15 14:41:23 2019 +0000
+
+    changed cat size
+
+commit 162583493097e6ff5cbc4d6392b5ed625d2524f7
+Author: 20084163KP <kevinp3099@gmail.com>
+Date:   Fri Feb 15 14:33:44 2019 +0000
+
+    fixing .gitignore file
+
+commit 435cdcb037a9b6ba981683517607bda3e687b957
+Author: 20084163KP <kevinp3099@gmail.com>
+Date:   Fri Feb 15 14:03:04 2019 +0000
+
+    cat picture first commit
+
+commit 31d8bd720c7eaf9f12d53c79956067cb94d52408
+Author: Kevin Power <46930621+Kevin3099@users.noreply.github.com>
+Date:   Fri Feb 15 13:48:14 2019 +0000
+
+    Initial commit
