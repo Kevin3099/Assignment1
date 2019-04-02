@@ -1,0 +1,71 @@
+body {}
+
+
+.ui.center.aligned.container {
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+
+}
+
+
+.l2pics {
+    height: 400px;
+    width: 50%;
+
+}
+
+.r2pics {
+    height: 400px;
+    width: 50%;
+}
+
+.l3pics {
+    height: 300px;
+    width: 33%;
+    float: left;
+}
+
+.c3pics{
+    height: 300px;
+    width: 33%;
+    
+}
+
+.r3pics{
+    height: 300px;
+    width: 33%;
+    float: right;
+
+}
+
+.sosclip{
+    height: 400px;
+    width: 50%;
+}
+
+.lightsclip, .blinkclip{
+    height: 300px;
+    width: 33%
+}
+
+.ui.compact.menu .item {
+
+    background-color: green;
+    font-weight: bold;
+    color: white;
+}
+
+.ui.form.segment {
+    background-color: green;
+    margin-left: 10%;
+    margin-bottom: 5%;
+
+}
+
+.ui.form.segment .label {
+    color: white;
+}
+
+
+
